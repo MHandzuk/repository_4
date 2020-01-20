@@ -209,13 +209,14 @@ input::placeholder {
   flex-direction: row;
   justify-content: center;
   margin-top: 15px;
+  margin-bottom: 80px;
 }
 .container_5_1,
 .container_5_2,
 .container_5_3,
 .container_5_4 {
   width: 180px;
-  margin-left: 93px;
+  margin-left: 123px;
 }
 .container_5_1_a,
 .container_5_1_b,
@@ -243,11 +244,39 @@ input::placeholder {
   display: flex;
   flex-direction: row;
   text-decoration: none;
+  margin-top: 6px;
 }
+
 #container_5_1_a_id {
   display: flex;
   flex-direction: row;
   text-decoration: none;
+}
+#container_5_1_a_id_1,
+#container_5_2_l_id_1,
+.container_5_2_k_text,
+.container_5_1_b_text,
+.container_5_1_c_text,
+.container_5_1_d_text,
+.container_5_1_e_text,
+.container_5_2_f_text,
+.container_5_2_g_text,
+.container_5_2_h_text,
+.container_5_2_j_text,
+.container_5_2_m_text,
+.container_5_3_n_text,
+.container_5_3_0_text,
+.container_5_3_p_text,
+.container_5_3_r_text,
+.container_5_3_s_text,
+.container_5_4_t_text,
+.container_5_4_u_text,
+.container_5_4_v_text,
+.container_5_4_w_text,
+.container_5_4_y_text,
+.container_5_4_z_text {
+  display: flex;
+  flex-direction: column;
 }
 .container_5_1_a {
   flex-direction: column;
@@ -359,6 +388,10 @@ input::placeholder {
   color: #000000;
   margin-top: 4px;
   width: 216px;
+}
+.alfavit_1:hover {
+  transform: scale(1.1);
+  font-weight: 500;
 }
 
 /* .container_5_2_f,
